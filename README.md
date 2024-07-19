@@ -1,4 +1,5 @@
-﻿# FLAMED - Fundação e Laboratório de Análises Médicas
+![FLAMED](https://lh3.googleusercontent.com/pw/AP1GczPshu-KeQOWXTFhAnO06iLkaW5fuVi18s_pVYGFrxl8cpdIrD_LdtzkkMXjV9rMiGZqr0O6chjx-R4buGbcDI7n2JWotORcZTYg9tjAi7fcHFqEmh4n7Ni7qVJ8bQY0jY3FNXXsRXJE9IiIFmfl-zbXkA=w904-h599-s-no-gm?authuser=0)
+ # FLAMED - Fundação e Laboratório de Análises Médicas
 
 FLAMED é um aplicativo inovador desenvolvido para transformar a gestão de dados médicos. Com uma interface amigável e recursos avançados, o FLAMED visa melhorar a comunicação entre pacientes e profissionais de saúde, garantindo a centralização e o fácil acesso a informações críticas de saúde.
 
