@@ -41,7 +41,7 @@ O principal objetivo do FLAMED é evitar erros de diagnóstico, medicação equi
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença FLAMED](LICENSE). Por favor, revise a licença para mais detalhes sobre o uso permitido e restrições.
+Este projeto está licenciado sob a [Licença FLAMED](LICENSE.md). Por favor, revise a licença para mais detalhes sobre o uso permitido e restrições.
 
 <br>
 
@@ -90,7 +90,7 @@ The main goal of FLAMED is to prevent diagnostic errors, incorrect medication, a
 
 ## License
 
-This project is licensed under the [FLAMED License](LICENSE). Please review the license for more details on permitted use and restrictions.
+This project is licensed under the [FLAMED License](LICENSE.md). Please review the license for more details on permitted use and restrictions.
 
 
 <br>
@@ -139,7 +139,7 @@ El objetivo principal de FLAMED es evitar errores de diagnóstico, medicación i
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia FLAMED](LICENSE). Por favor, revise la licencia para más detalles sobre el uso permitido y las restricciones.
+Este proyecto está licenciado bajo la [Licencia FLAMED](LICENSE.md). Por favor, revise la licencia para más detalles sobre el uso permitido y las restricciones.
 
 <br>
 
