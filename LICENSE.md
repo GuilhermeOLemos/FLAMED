@@ -26,9 +26,11 @@ Todos os direitos sobre o código, documentação, protótipo e demais materiais
 - **Desenvolvedores**: Guilherme Lemos, Victor Bury de Araújo, Gustavo Barreto Lima Brandão, Thiago Britto Barrocas.
 - **Contato**: [guilherme.oslemos@gmail.com](mailto:guilherme.oslemos@gmail.com)
 
----
+<br>
 
-Esta licença foi criada para proteger os direitos dos desenvolvedores do FLAMED e garantir que o aplicativo seja utilizado de acordo com os termos estabelecidos. Qualquer uso não autorizado será tratado conforme a legislação vigente.
+> Esta licença foi criada para proteger os direitos dos desenvolvedores do FLAMED e garantir que o aplicativo seja utilizado de acordo com os termos estabelecidos. Qualquer uso não autorizado será tratado conforme a legislação vigente.
+
+<br>
 
 ---
 # FLAMED License
@@ -59,9 +61,11 @@ All rights to the code, documentation, prototype, and other materials related to
 - **Developers**: Guilherme Lemos, Victor Bury de Araújo, Gustavo Barreto Lima Brandão, Thiago Britto Barrocas.
 - **Contact**: [guilherme.oslemos@gmail.com](mailto:guilherme.oslemos@gmail.com)
 
----
+<br>
 
-This license was created to protect the rights of the FLAMED developers and ensure the application is used according to the established terms. Any unauthorized use will be handled in accordance with the applicable law.
+> This license was created to protect the rights of the FLAMED developers and ensure the application is used according to the established terms. Any unauthorized use will be handled in accordance with the applicable law.
+
+<br>
 
 ---
 # Licencia FLAMED
@@ -92,7 +96,7 @@ Todos los derechos sobre el código, la documentación, el prototipo y demás ma
 - **Desarrolladores**: Guilherme Lemos, Victor Bury de Araújo, Gustavo Barreto Lima Brandão, Thiago Britto Barrocas.
 - **Contacto**: [guilherme.oslemos@gmail.com](mailto:guilherme.oslemos@gmail.com)
 
----
+<br>
 
-Esta licencia fue creada para proteger los derechos de los desarrolladores de FLAMED y garantizar que la aplicación se utilice de acuerdo con los términos establecidos. Cualquier uso no autorizado será tratado conforme a la legislación vigente.
+> Esta licencia fue creada para proteger los derechos de los desarrolladores de FLAMED y garantizar que la aplicación se utilice de acuerdo con los términos establecidos. Cualquier uso no autorizado será tratado conforme a la legislación vigente.
 
