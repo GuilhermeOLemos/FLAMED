@@ -1,7 +1,12 @@
 ![FLAMED](https://lh3.googleusercontent.com/pw/AP1GczPshu-KeQOWXTFhAnO06iLkaW5fuVi18s_pVYGFrxl8cpdIrD_LdtzkkMXjV9rMiGZqr0O6chjx-R4buGbcDI7n2JWotORcZTYg9tjAi7fcHFqEmh4n7Ni7qVJ8bQY0jY3FNXXsRXJE9IiIFmfl-zbXkA=w904-h599-s-no-gm?authuser=0)
- # FLAMED - Fundação e Laboratório de Análises Médicas
+# FLAMED - Fundação e Laboratório de Análises Médicas
 
-FLAMED é um aplicativo inovador desenvolvido para transformar a gestão de dados médicos. Com uma interface amigável e recursos avançados, o FLAMED visa melhorar a comunicação entre pacientes e profissionais de saúde, garantindo a centralização e o fácil acesso a informações críticas de saúde.
+|||
+| :--------- | -------:|
+| FLAMED é um aplicativo inovador desenvolvido para transformar a gestão de dados médicos. Com uma interface amigável e recursos avançados, o FLAMED visa melhorar a comunicação entre pacientes e profissionais de saúde, garantindo a centralização e o fácil acesso a informações críticas de saúde.| ![text](https://lh3.googleusercontent.com/pw/AP1GczOqbc4aq3xhCxeF9dHpZHKqyeTO0YB7PmVFYxs0pvdcJf88IzkGj9W-W6v5HmVNBYY2q0Rk8MveQ2EJaytf7sJ7fOofjisJwmA4rnMoFQ7biOoOApYsyHbLnZehjUioia2TrqyFdDsGU-kr3WH2gJLAqg=w483-h911-s-no-gm?authuser=0)|
+||[Apresentação do protótipo](https://www.figma.com/deck/P2tt0Q3IoDaSrKWDZvSZQo/FLAMED-Apresenta%C3%A7%C3%A3o?node-id=1-32&viewport=-11%2C75%2C0.43&t=W1B95Rk3KPArQkRi-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
+
+
 
 ## Propósito
 
@@ -38,24 +43,28 @@ O principal objetivo do FLAMED é evitar erros de diagnóstico, medicação equi
 
 Este projeto está licenciado sob a [Licença FLAMED](LICENSE). Por favor, revise a licença para mais detalhes sobre o uso permitido e restrições.
 
----
+<br>
 
-Este é apenas um resumo do projeto FLAMED. Detalhes adicionais e funcionalidades específicas estão em desenvolvimento e serão divulgados conforme o progresso do projeto.
+> Este é apenas um resumo do projeto FLAMED. Detalhes adicionais e funcionalidades específicas estão em desenvolvimento e serão divulgados conforme o progresso do projeto.
+
+<br>
 
 ---
 
 # FLAMED - Foundation and Laboratory of Medical Analyses
-
-FLAMED is an innovative application designed to transform the management of medical data. With a user-friendly interface and advanced features, FLAMED aims to improve communication between patients and healthcare professionals, ensuring centralized and easy access to critical health information.
+|||
+| :--------- | -------:|
+| FLAMED is an innovative application designed to transform the management of medical data. With a user-friendly interface and advanced features, FLAMED aims to improve communication between patients and healthcare professionals, ensuring centralized and easy access to critical health information.| ![text](https://lh3.googleusercontent.com/pw/AP1GczOqbc4aq3xhCxeF9dHpZHKqyeTO0YB7PmVFYxs0pvdcJf88IzkGj9W-W6v5HmVNBYY2q0Rk8MveQ2EJaytf7sJ7fOofjisJwmA4rnMoFQ7biOoOApYsyHbLnZehjUioia2TrqyFdDsGU-kr3WH2gJLAqg=w483-h911-s-no-gm?authuser=0)
+||[Prototype Presentation](https://www.figma.com/deck/U5aQp6QUn4APuAvvdSPCfI/FLAMED-Presentation?node-id=1-32&viewport=95%2C-138%2C0.72&t=3e7cwnoom7PnvJKY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
 
 ## Purpose
 
-The main goal of FLAMED is to prevent diagnostic errors, incorrect medication, and communication problems due to missing information or incomplete tests. It manages and analyzes medical data, including tests, consultations, and the patient's overall history, providing a comprehensive and organized view of their health status.
+The main goal of FLAMED is to prevent diagnostic errors, incorrect medication, and communication problems due to missing information or incomplete medical tests. It manages and analyzes medical data, including medical tests, consultations, and the patient's overall history, providing a comprehensive and organized view of their health status.
 
 ## Key Features
 
 - **Integration with health plans**: Facilitates access to and sharing of information between different healthcare systems.
-- **Medical data management**: Stores and organizes tests, consultations, and patient medical history.
+- **Medical data management**: Stores and organizes medical tests, consultations, and patient medical history.
 - **Improved communication**: Enables efficient sharing of information with healthcare professionals, reducing errors and optimizing time.
 
 ## Benefits
@@ -63,7 +72,7 @@ The main goal of FLAMED is to prevent diagnostic errors, incorrect medication, a
 - **Quick access to information**: All medical data in one place, accessible at any time.
 - **Reduction of medical errors**: Complete and accurate information aids decision-making.
 - **Time and resource savings**: Facilitates document management and improves efficiency in care.
-- **Ease of understanding medical tests**: Clear and organized presentation of test results.
+- **Ease of understanding medical medical tests**: Clear and organized presentation of medical test results.
 
 ## Differentiators
 
@@ -83,16 +92,20 @@ The main goal of FLAMED is to prevent diagnostic errors, incorrect medication, a
 
 This project is licensed under the [FLAMED License](LICENSE). Please review the license for more details on permitted use and restrictions.
 
----
 
-This is just a summary of the FLAMED project. Additional details and specific features are in development and will be disclosed as the project progresses.
+<br>
+
+> This is just a summary of the FLAMED project. Additional details and specific features are in development and will be disclosed as the project progresses.
+
+<br>
 
 ---
 
 # FLAMED - Fundación y Laboratorio de Análisis Médicos
-
-FLAMED es una aplicación innovadora diseñada para transformar la gestión de datos médicos. Con una interfaz amigable y características avanzadas, FLAMED busca mejorar la comunicación entre pacientes y profesionales de la salud, asegurando la centralización y el fácil acceso a información crítica de salud.
-
+|||
+| :--------- | -------:|
+| FLAMED es una aplicación innovadora diseñada para transformar la gestión de datos médicos. Con una interfaz amigable y características avanzadas, FLAMED busca mejorar la comunicación entre pacientes y profesionales de la salud, asegurando la centralización y el fácil acceso a información crítica de salud.| ![text](https://lh3.googleusercontent.com/pw/AP1GczOqbc4aq3xhCxeF9dHpZHKqyeTO0YB7PmVFYxs0pvdcJf88IzkGj9W-W6v5HmVNBYY2q0Rk8MveQ2EJaytf7sJ7fOofjisJwmA4rnMoFQ7biOoOApYsyHbLnZehjUioia2TrqyFdDsGU-kr3WH2gJLAqg=w483-h911-s-no-gm?authuser=0)
+||[Presentación del prototipo](https://www.figma.com/deck/XcyuwYxkuZtKTG07lP6LfL/FLAMED-Apresenta%C3%A7%C3%A3o-(Copy)?node-id=1-32&viewport=126%2C165%2C0.36&t=EzRlr3PfJlufnfe6-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)|
 ## Propósito
 
 El objetivo principal de FLAMED es evitar errores de diagnóstico, medicación incorrecta y problemas de comunicación debido a la falta de información o pruebas incompletas. Gestiona y analiza datos médicos, incluidos exámenes, consultas e historial general del paciente, proporcionando una vista completa y organizada de su estado de salud.
@@ -128,7 +141,6 @@ El objetivo principal de FLAMED es evitar errores de diagnóstico, medicación i
 
 Este proyecto está licenciado bajo la [Licencia FLAMED](LICENSE). Por favor, revise la licencia para más detalles sobre el uso permitido y las restricciones.
 
----
+<br>
 
-Este es solo un resumen del proyecto FLAMED. Los detalles adicionales y las características específicas están en desarrollo y se divulgarán a medida que avance el proyecto.
-
+> Este es solo un resumen del proyecto FLAMED. Los detalles adicionales y las características específicas están en desarrollo y se divulgarán a medida que avance el proyecto.
